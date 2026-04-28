@@ -3,7 +3,8 @@ A practice for analizing a chocolate factory information
 #Overview
 This project analyzes data from a chocolate manufacturing factory. The objective is to process production information, calculate product prices, and generate analytical insights that help compare production performance.
 
-Project Steps:
+Project Steps
+
 Step 1 – Data Preprocessing
 In the first step, the raw factory data was preprocessed. This stage included cleaning the data, organizing the variables, and preparing the dataset so it could be used for further analysis.
 
